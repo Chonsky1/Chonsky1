@@ -6,7 +6,7 @@
   
   and dabbling in Full Stack Engineering.
   
-🔭I care about discovering hidden connections in diverse datasets..
+🔭I care about discovering hidden connections in this diverse world..
 </h4>
   Connect with me via email:
 
