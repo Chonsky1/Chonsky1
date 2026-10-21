@@ -1,7 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-
 ----
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hi there!\
   \
 🌱I'm learning Data Analysis and AI Engineering at SSAFY (Samsung SW.AI Academy For Youth), as well as Full Stack Engineering.\
