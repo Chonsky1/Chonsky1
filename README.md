@@ -1,15 +1,18 @@
 ----
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi!
-  \
-<h3>
-🌱I'm learning Data Analysis and AI Engineering at SSAFY (Samsung SW.AI Academy For Youth) and dabbling in Full Stack Engineering.\
-🔭I care about discovering hidden connections in diverse datasets..\
-\
-  </h3>
+
+<h4>
+🌱I'm learning Data Analysis and AI Engineering at SSAFY (Samsung SW.AI Academy For Youth) 
+  
+  and dabbling in Full Stack Engineering.
+  
+🔭I care about discovering hidden connections in diverse datasets..
+</h4>
   Connect with me via email:
-----
 
 <a href="mailto:chonskyblue@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chonskyblue@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  
+----
 
 ### 💪 Skills
 
