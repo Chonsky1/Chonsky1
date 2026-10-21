@@ -8,9 +8,10 @@
   
 🔭I care about discovering hidden connections in this diverse world..
 </h4>
-  Connect with me via email:
+  Connect with me via:
 
 <a href="mailto:chonskyblue@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chonskyblue@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://velog.io/@chonsky/posts" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   
 ----
 
